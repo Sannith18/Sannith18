@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **Docker, Nextjs**
 - 💬 Ask me about **C, Java DSA, Javascript, SQL, MongoDB, Expressjs, Reactjs, Nodejs**
 - 📫 How to reach me **sannithuppula@gmail.com**
-<!-- - 👨‍💻 All of my projects are available at **https://personal-portfolio-six-roan.vercel.app/**-->
 
 <div> <a href="https://www.linkedin.com/in/sannith-uppula-31393a240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Sannith18" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
